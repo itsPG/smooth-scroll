@@ -1,3 +1,9 @@
+# Smooth Scroll, itsPG ver
+
+I fixed the wrong position bug of origin version.
+
+If you find your scroll stop at the wrong position, please try this version.
+
 # Smooth Scroll
 A simple script to animate scrolling to anchor links. Easing support contributed by [Willem Liu](https://github.com/willemliu) with code from [Gaëtan Renaudeau](https://gist.github.com/gre/1650294).
 
